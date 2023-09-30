@@ -7,3 +7,5 @@
 Запуск:
 Пока только python запуск.
 Python app/app_run.py
+
+![буферси](https://github.com/rewen9/bufffercy/assets/48365540/dad129f0-c144-4d07-a779-5b08be004c64)
